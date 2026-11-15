@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PHONE ANALYST</string>
+    <string name="accessibility_description">Enregistre localement l'application active et les événements généraux d'ouverture et de clic. Ne lit pas le contenu des écrans.</string>
+</resources>
